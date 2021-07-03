@@ -2,7 +2,8 @@ body{
     margin: 0;
 }
 p{
-    font-size: 25px;
+    font-size: 15px;
+    text-align: justify;
 }
 .header{
     font-family: 'Bona Nova', serif;
@@ -33,4 +34,12 @@ section{
 .top-banner{
     background-image: url(./images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream-big{
+    
+    margin: 0px;
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
