@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+.header{
+    font-family: 'Bona Nova', serif;
+    font-size: 25px;
+}
+.span1{
+    color: rgb(39, 146, 13);
+}
+section{
+    display: flex;
+}
+.half-whight{
+    width: 50%;
+    padding: 3%;
+
+}
+.half-whight img{
+    width: 70%;
+}
+.link-button{
+    color: rgb(12, 12, 12);
+    text-decoration: none;
+    background: linear-gradient(to right, #f7b80a, #108bbbc0);
+    border-radius: 5px;
+    padding: 10px 20px;
+
+}
+.top-banner{
+    background-image: url(./images/top-banner.png);
+    background-repeat: no-repeat;
+}
